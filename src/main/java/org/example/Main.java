@@ -7,6 +7,11 @@ public class Main {
 
         System.out.printf("Hello and welcome!");
         System.out.printf("Holaa!");
+        int a = 3;
+        int b = 55;
+
+        int s = a + b;
+        System.out.printf(s);
 
         }
     }
